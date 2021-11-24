@@ -11,7 +11,7 @@ I'm studying :student: physics, mathematics and computer science at the Universi
   - :fire: Passionate discgolfer
   - :runner: Chasing the Runner’s High
   - :books: Enjoyer of fact and fiction (<a href="https://www.goodreads.com/late555">Goodreads profile</a>)
-  - :spades: Poker with friends or online
+  - :spades: Poker with friends and online
   - :chess_pawn: Checkmate! (<a href="https://lichess.org/@/late555">Lichess profile</a>)
   - :game_die: Fun times with boardgames
 <!-- - :mailbox: **How to reach me:** -->

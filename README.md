@@ -2,7 +2,6 @@
 
 I'm studying :student: physics, mathematics and computer science at the University of Turku.
 
-- :finland: **From Finland**
 - :briefcase: **Currently working at**: 
   - :man_teacher: <a href="https://www.stemschoolfinland.com/">STEM School Finland</a> - Part time teacher of Science, Robotics and Programming (Scratch and Python).
 - :mantelpiece_clock: **Previously worked at:**
